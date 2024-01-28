@@ -1,0 +1,4 @@
+EMAIL_VERIFY = "EMAIL_VERIFY"
+EMAIL_PASSWORD_RESET = "EMAIL_PASSWORD_RESET"
+EMAIL_LOGIN = "EMAIL_LOGIN"
+Email Verification Email:"Email Verification Email"
